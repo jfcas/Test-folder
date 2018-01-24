@@ -1,1 +1,1 @@
-Ceci est un test avec une modification.
+Ceci est un test avec une modification dans une nouvelle branche.
